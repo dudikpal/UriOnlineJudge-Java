@@ -1,4 +1,4 @@
-package beginner.area;
+package beginner._1012_area;
 
 import org.junit.jupiter.api.Test;
 
